@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+.sstttts{
+    position: absolute;
+    margin-top: 0.5vh;
+    margin-left: -2.3vh;
+    font-size: 2.2vh;
+}
+
+.strada{
+    position: absolute;
+    top: 81%;
+    left: 17.5%;
+    background: none;
+    line-height: 1.7vh;
+}
+
+.data{
+    position: absolute;
+    top: 87%;
+    left: 17.5%;
+    background: none;
+    line-height: 1.7vh;
+}
+
+.payday{
+    position: absolute;
+    top: 93%;
+    left: 17.5%;
+    background: none;
+    line-height: 1.7vh;
+}
+
+.rama{
+    position: absolute;
+    top: 88.5%;
+    left: 8.5%;
+    transform: translate(-50%, -50%);
+    border: 0.5vh solid white;
+    height: 15.5vh;
+    width: 14vw;
+    background: transparent;
+}
+
+.babacioacapematurazburand{
+    position: absolute;
+    top: 76.5%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    width: 2vw;
+}
+
+.mancare{
+    display: flex;
+    position: absolute;
+    top: 77.5%;
+    left: 6%;
+    transform: translate(-50%, -50%);
+    gap: 1vh;
+}
+
+.apa{
+    display: flex;
+    position: absolute;
+    top: 75%;
+    left: 6%;
+    transform: translate(-50%, -50%);
+    gap: 1vh;
+}
+
+.viata{
+    display: flex;
+    position: absolute;
+    top: 75%;
+    left: 13.5%;
+    transform: translate(-50%, -50%);
+    gap: 1vh;
+}
+
+.armura{
+    display: flex;
+    position: absolute;
+    top: 77.5%;
+    left: 13.5%;
+    transform: translate(-50%, -50%);
+    gap: 1vh;
+}
+
+
+.imgimg{
+    position: absolute;
+    top: 76.5%;
+    left: 2.5%;
+    transform: translate(-50%, -50%);
+    width: 2vw;
+}
+
+.mcerc1{
+    margin-top: 1vh;
+    background: yellow;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh yellow;
+}
+
+.mcerc2{
+    margin-top: 1vh;
+    background: yellow;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh yellow;
+}
+
+.mcerc3{
+    margin-top: 1vh;
+    background: yellow;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh yellow;
+}
+
+.mcerc4{
+    margin-top: 1vh;
+    background: yellow;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh yellow;
+}
+
+/*----------------------------------------------------*/
+
+.acerc1{
+    margin-top: 1vh;
+    background: lightblue;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh lightblue;
+}
+
+.acerc2{
+    margin-top: 1vh;
+    background: lightblue;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh lightblue;
+}
+
+.acerc3{
+    margin-top: 1vh;
+    background: lightblue;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh lightblue;
+}
+
+.acerc4{
+    margin-top: 1vh;
+    background: lightblue;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh lightblue;
+}
+
+/* Viata armura */
+
+.vcerc1{
+    margin-top: 1vh;
+    background: #FF3131;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh #FF3131;
+}
+
+.vcerc2{
+    margin-top: 1vh;
+    background: #FF3131;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh #FF3131;
+}
+
+.vcerc3{
+    margin-top: 1vh;
+    background: #FF3131;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh #FF3131;
+}
+
+.vcerc4{
+    margin-top: 1vh;
+    background: #FF3131;
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh #FF3131;
+}
+
+/* -------------------------------------------- */
+
+.amcerc1{
+    margin-top: 1vh;
+    background: rgb(89, 250, 89);
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh rgb(89, 250, 89);
+}
+
+.amcerc2{
+    margin-top: 1vh;
+    background: rgb(89, 250, 89);
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh rgb(89, 250, 89);
+}
+
+.amcerc3{
+    margin-top: 1vh;
+    background: rgb(89, 250, 89);
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh rgb(89, 250, 89);
+}
+
+.amcerc4{
+    margin-top: 1vh;
+    background: rgb(89, 250, 89);
+    height: 1.3vh;
+    width: 1.3vh;
+    border-radius: 50%;
+    box-shadow: 0 0 1vh rgb(89, 250, 89);
+}
